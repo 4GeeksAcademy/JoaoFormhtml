@@ -1,0 +1,53 @@
+.card {
+    margin: auto;
+    width: 55%;
+}
+
+.row {
+    display: flex;  
+}
+
+.sub-row-right-state {
+    display: flex;
+}
+.col-3,
+.col-6 {
+    padding: 3px;
+}
+
+/*
+#missing-fields {
+    background: rgba(255, 0, 0, 0.219);
+    color: rgba(255, 0, 0, 0.493);
+    padding: 7px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+
+#payment-form-title {
+    background-color: rgba(128, 128, 128, 0.103);
+    text-align: left;
+}
+
+#buttons {
+    text-align: right;
+    background-color: rgba(128, 128, 128, 0.103);
+    padding: 8px;
+}
+
+.row {
+    padding: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+select {
+    width: 150px;
+}
+
+.larger {
+    width: 100%;
+}
+*/
